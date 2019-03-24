@@ -1,6 +1,6 @@
 package baza;
 /*
- * Dzia³a
+ * Dzia³a    dla galêzi
  */
 public class start {
 
